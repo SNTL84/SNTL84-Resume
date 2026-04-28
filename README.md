@@ -6,6 +6,8 @@
 
 Built for founders who move fast and waste nothing.
 
+> 🟢 **Currently Available** for freelance & consulting engagements.
+
 ---
 
 ## 👤 Profile
