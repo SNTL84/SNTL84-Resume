@@ -8,6 +8,24 @@ Built for founders who move fast and waste nothing.
 
 > 🟢 **Currently Available** for freelance & consulting engagements.
 
+[![GitHub followers](https://img.shields.io/github/followers/SNTL84?style=social)](https://github.com/SNTL84)
+[![Website](https://img.shields.io/badge/Website-desidevloper.com-blue)](https://desidevloper.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SNTL2784-blue?logo=linkedin)](https://www.linkedin.com/in/sntl2784)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp)](https://wa.me/919727413309)
+
+---
+
+## 📌 Table of Contents
+- [Profile](#-profile)
+- [Connect](#-connect-with-me)
+- [Core Skills](#-core-skills)
+- [Services](#-services-offered)
+- [Experience](#-professional-experience)
+- [Projects](#-featured-projects-ai--tech)
+- [Education](#-education)
+- [Value Proposition](#-value-proposition)
+- [Hire Me](#-usage--hire-me)
+
 ---
 
 ## 👤 Profile
@@ -146,6 +164,16 @@ Available for freelance engagements, consulting, and long-term collaborations.
 ## 📸 Screenshots
 
 *Coming soon — portfolio screenshots and project demos.*
+
+---
+
+## 📝 Version Notes
+
+| Version | Date | Changes |
+|---------|------|---------|
+| v1.0 | Apr 2026 | Initial resume + profile launch |
+| v1.1 | Apr 2026 | Availability status + CTA improvements |
+| v1.2 | Apr 2026 | Badge shields + ToC + version log |
 
 ---
 
